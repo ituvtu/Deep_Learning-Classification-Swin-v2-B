@@ -60,6 +60,11 @@ To improve model training:
 - Model was trained on **A100 GPU in Google Colab** with **FP16 mixed precision**.
 - Gradient scaling was performed using **torch.amp.GradScaler**.
 
+### Model download
+The Swin-V2-Base model can be downloaded at the following link:
+[Download model.pt](https://www.dropbox.com/scl/fi/imlg8647aogsg0qzvwsv4/model.pt?rlkey=6t8y91cs6727ec4zsb935kit9&st=u89yv675&dl=0)
+
+
 ### Data Augmentation
 Two augmentation strategies were applied:
 1. **Standard augmentation for all images**:
