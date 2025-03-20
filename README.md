@@ -26,15 +26,13 @@ Accurate monitoring of aquatic macroinvertebrates is crucial for assessing water
 
 ### Class Examples
 To better understand the task's complexity, below are sample images from all 31 classes:
-
-![Class examples](image.png)
+![Class examples](https://github.com/user-attachments/assets/8c8a13dc-c154-4f0f-b195-13c596fcdb39)
 
 ### Class Imbalance
 The dataset exhibits **significant class imbalance**, with the number of images per class ranging from **400 to 3,500**. This poses challenges during model training, as rare classes may lack sufficient representation for effective generalization.
 
 Below is a histogram showing the distribution of classes in the training set:
-
-![The distribution of classes](image-1.png)
+![The distribution of classes](https://github.com/user-attachments/assets/31caed39-1a8b-4117-bcb0-9a2bcee67960)
 
 ## Swin-V2-Base Architecture
 
